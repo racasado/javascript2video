@@ -8,4 +8,9 @@
 * https://www.google.es/search?q=headless+chrome+record+video&ei=6EktW43DG8aMUeCDjfAE&start=10&sa=N&biw=1920&bih=1200
 
 
+https://www.ffmpeg.org
+https://github.com/GoogleChrome/puppeteer/issues/2175
+https://github.com/adieuadieu/serverless-chrome/issues/17
+
+https://www.npmjs.com/package/electron-recorder
 

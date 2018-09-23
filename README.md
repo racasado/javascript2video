@@ -14,3 +14,5 @@ https://github.com/adieuadieu/serverless-chrome/issues/17
 
 https://www.npmjs.com/package/electron-recorder
 
+
+https://groups.google.com/a/chromium.org/forum/m/#!topic/blink-dev/p1sil0_wqEU
